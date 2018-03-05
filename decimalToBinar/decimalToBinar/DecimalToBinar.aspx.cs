@@ -53,7 +53,7 @@ namespace decimalToBinar
             }
             catch
             {
-                binarNumber.Text = "Unesena vrijednost nije iz dekatskog sustava brijeva!!!!!";
+                binarNumber.Text = "Unesena vrijednost nije iz dekatskog sustava brojeva!!!!!";
             }
         }
     }
